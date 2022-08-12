@@ -1,2 +1,3 @@
 ---
+- import_tasks: motd.yml
 # tasks file for base

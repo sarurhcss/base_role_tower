@@ -1,0 +1,5 @@
+---
+ - name: MOTD Module
+   template:
+     src: motd.j2
+     dest: /etc/motd

@@ -1,0 +1,6 @@
+---
+ - name: Calling base role
+   hosts: all
+   become: yes
+   roles:
+     - base

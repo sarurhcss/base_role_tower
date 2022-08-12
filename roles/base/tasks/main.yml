@@ -1,3 +1,4 @@
 ---
 - import_tasks: motd.yml
+- import_tasks: add_etc_hosts.yml  
 # tasks file for base
